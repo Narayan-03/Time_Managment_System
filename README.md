@@ -1,1 +1,4 @@
 # Time_Managment_System
+Time Management System for Educational Institutions
+
+The Time Management System for Educational Institutions is a software project that helps students and teachers manage their time efficiently. It allows users to organize class schedules, assignments, examinations, and academic activities in one place. Students can set deadlines, prioritize tasks, and receive reminders for important activities. Teachers can also manage their schedules and responsibilities effectively. The main objective of this project is to reduce time wastage, improve productivity, and avoid scheduling conflicts. This system helps students maintain a proper study routine and balance their academic and personal activities. Overall, it provides a simple and user-friendly solution for improving time management in educational institutions.
